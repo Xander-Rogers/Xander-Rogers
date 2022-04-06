@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xander-Rogers
 - 👀 I’m interested in Computational Mathematics, Python Programming, and Engineering.
-- 🌱 I’m currently learning Java, JS, and Scala.
+- 🌱 I’m currently learning Java, Rust, and Scala.
 - 💞️ I’m looking to collaborate on security projects, python libraries, and engineering tools.
 - 📫 How to reach me : Email ---> arogers23@email.davenport.edu
 
